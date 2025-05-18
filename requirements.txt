@@ -1,0 +1,19 @@
+# Core data handling and computation
+pandas              # For data manipulation and analysis
+numpy               # For numerical operations and array handling
+
+# Machine Learning libraries
+scikit-learn        # For ML models, evaluation metrics, train-test splits
+xgboost             # Gradient boosting model (used as standalone and meta-learner)
+lightgbm            # Lightweight gradient boosting for structured data
+catboost            # Boosting algorithm optimized for categorical features
+
+# Deep Learning
+tensorflow          # Used for building MLP, LSTM, CNN, AutoEncoder, etc.
+
+# Visualization (optional but helpful)
+matplotlib          # For plotting evaluation graphs and metrics
+seaborn             # For visualizing confusion matrices, feature importances
+
+# If working in Jupyter Notebook
+notebook            # Ensures Jupyter compatibility (optional)
